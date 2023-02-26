@@ -1,0 +1,17 @@
+#btn{
+    background-color: rgb(209, 175, 10);
+    border: none;
+    margin:0 auto;
+    margin-top: 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    width: 20%;
+         }
+         .card{
+            margin: 200px;
+            padding: 20px 20px;
+            border-radius: 20px;
+            text-align:center;
+            background-image: url(https://png.pngtree.com/background/20210709/original/pngtree-shading-background-abstract-colorful-background-colorful-art-picture-image_938007.jpg);
+         }
+    
